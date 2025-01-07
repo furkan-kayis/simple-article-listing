@@ -30,7 +30,7 @@ const articles = [
 
 export default function App() {
   return (
-    <main className="px-8 py-12 font-poppins">
+    <main className="min-h-screen px-8 py-12 font-poppins bg-custom-slate-50">
       <div className="mx-auto space-y-11 max-w-[45.5rem]">
         <h1 className="text-[2.25rem] font-semibold text-center max-w-[25ch] mx-auto">
           We release interesting articles about technology
